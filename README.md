@@ -1,7 +1,7 @@
 <h1>
- ⭐️ Project Name Goes here ⭐️
+ ⭐️ Copyright Injector ⭐️
 </h1>
-Project description goes here.
+Inject a figlet to the start of all HTML files in your repository using pre-commit hooks.
 <br> 
 
 <br>
@@ -13,7 +13,8 @@ Project description goes here.
 
 
 ## Features
-- Insert list of features here
+- Add figlet to .yaml file in the .github folder.
+- Inject figlet onto the start of every HTML file's code.
 
 
 ## Instructions to run
@@ -58,6 +59,9 @@ We welcome first time contributors and open source enthusiasts. Check out our is
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+## Ideation Credits
+- [Angad Sharma](https://github.com/L04DB4L4NC3R)
 
 If you liked this project, please leave a 🌟
 
